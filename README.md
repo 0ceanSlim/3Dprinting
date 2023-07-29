@@ -4,8 +4,8 @@
 
 ### Hardware
 - **Ender 3 Pro**
-  - BIQU Turbo 3.5 Rev B Main BOard
-  - TMCxxx (to-do) Drivers
+  - BIQU BIGTREETECH SKR-2 Rev B Main Board
+  - TMC2209 Drivers
   - TFT35 Display
   - CR Touch
 
